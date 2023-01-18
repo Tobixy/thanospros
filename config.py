@@ -18,7 +18,7 @@ class Development(Config):
     # command handler
     COMMAND_HAND_LER = "."
     VCMODE = "True"
-    VC_SESSION = "your 2nd id telethon session" #note don't use maim account to vc player
+    VC_SESSION = "1BVtsOKkBu4VYFAQuzvZbbR9IhhGWqtIV3RrL9KrAC8d40e3ZC6mLIF3zNyBi-HTjibroZ5H3ybzb2TIvDGBY1g83uxxQeZbtQCHYauE4sl0delTGLI8W2y-Mn5AfJXhXN3EWPGQx-Y-KB6dm0nbdLQG-XHO03qt0yAVDN3pY5jB_ZI_NzDU74ZKRwZWCersBAkaaHtso4SaI3RNw6nWl2IAgXo1J-DCPsEjplm2WKrYMG5YEskpb2KlKkL3882QnPKRybEbqCYtCNIVvMI7Xe5HS8xpLEbqxNMk5wrkzDDzYjxoJmtcy5YrXcbsZVIOAzXKJnGmmIknN9HK_CAN6_H5TQ5jNPfM=" #note don't use maim account to vc player
     # command hanler for sudo
     SUDO_COMMAND_HAND_LER = "."
     # External plugins repo
